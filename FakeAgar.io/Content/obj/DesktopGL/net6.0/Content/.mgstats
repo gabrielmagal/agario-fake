@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/GabrielAlmeida/source/repos/FakeAgar.io/FakeAgar.io/Content/ball.png","C:/Users/GabrielAlmeida/source/repos/FakeAgar.io/FakeAgar.io/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",43184,136969,0.2017246
+"C:/Users/GabrielAlmeida/source/repos/FakeAgar.io/FakeAgar.io/Content/FontDefault.spritefont","C:/Users/GabrielAlmeida/source/repos/FakeAgar.io/FakeAgar.io/Content/bin/DesktopGL/Content/FontDefault.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.186301
